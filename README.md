@@ -1,0 +1,2 @@
+# RdrPluginTemplate
+プロデルプラグインのひな形
