@@ -11,7 +11,7 @@
     <AssemblyName>RdrPluginSample</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Windows</MyType>
-    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <OptionExplicit>On</OptionExplicit>
     <OptionCompare>Binary</OptionCompare>
     <OptionStrict>Off</OptionStrict>
@@ -133,7 +133,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="utopiat.Produire">
-      <Version>1.8.1053</Version>
+      <Version>2.0.1254</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
